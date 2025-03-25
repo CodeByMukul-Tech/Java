@@ -15,8 +15,17 @@ public class maths {
         //    float remainder = a % b;
         //    System.out.println(remainder);
 
-        
-    
+//        int a = 10 ;
+//        a %=2;
+//        System.out.println(a);
+
+//        byte b = 10 ;
+//        b = (byte) (b + 5) ;
+//        System.out.println(b);
+
+        int a = 1;
+        --a;
+        System.out.println(a);
 
     }
 }
